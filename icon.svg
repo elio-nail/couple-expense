@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <rect width="180" height="180" rx="40" fill="#4A3F5C"/>
+  <text x="90" y="72" font-family="Georgia, serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">CdC</text>
+  <text x="90" y="118" font-family="Georgia, serif" font-size="13" fill="#C8A8E9" text-anchor="middle" dominant-baseline="middle">Carnet de comptes</text>
+</svg>
